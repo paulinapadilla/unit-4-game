@@ -1,0 +1,51 @@
+body {
+    background: url("../images/background.jpg");
+}
+
+.headerimage{
+    height:130px;
+    width: 100%;
+}
+
+.card {
+    width: 60%;
+    margin: 0 auto;
+    background-color:rgba(0, 0, 0, 0.8);  
+}
+
+p{
+    color: whitesmoke;
+    font-size: 18px;
+}
+
+.crystal {
+    height: 100px;
+    width: 100px;
+    float:left;
+}
+
+.crystalContainer{
+    margin: 0 auto;
+    background-color:rgba(0, 0, 0, 0);
+}
+
+.numberContainer{
+    height:100px;
+    width:40%;
+    background: green;
+    margin:0 5%;
+    font-weight: 400;
+    font-size: 60px;
+    padding-top:10px;
+    text-align: center;
+}
+
+#counter{
+    font-size:20px;
+}
+
+#score{
+    height: 100px;
+    text-align: center;
+    font-size:50px;
+}
